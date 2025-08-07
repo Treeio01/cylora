@@ -1,0 +1,46 @@
+<svg width="820" height="450" viewBox="0 0 820 450" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g opacity="0.12">
+<path d="M24.5 415L763 449" stroke="url(#paint0_linear_1_215)" stroke-width="2"/>
+<path d="M18.4503 371L756.435 414.779" stroke="url(#paint1_linear_1_215)" stroke-width="2"/>
+<path d="M12.6193 310L748.662 379.133" stroke="url(#paint2_linear_1_215)" stroke-width="2"/>
+<path d="M13.9369 202L766.648 353.872" stroke="url(#paint3_linear_1_215)" stroke-width="2"/>
+<path d="M25.5995 141L771.402 323.809" stroke="url(#paint4_linear_1_215)" stroke-width="2"/>
+<path d="M22.2385 83L789.96 303.214" stroke="url(#paint5_linear_1_215)" stroke-width="2"/>
+<path d="M27.9994 1L807.708 283.389" stroke="url(#paint6_linear_1_215)" stroke-width="2"/>
+<path d="M3.60889 259L763.794 367.439" stroke="url(#paint7_linear_1_215)" stroke-width="2"/>
+</g>
+<defs>
+<linearGradient id="paint0_linear_1_215" x1="393.75" y1="415" x2="393.75" y2="449" gradientUnits="userSpaceOnUse">
+<stop stop-color="white"/>
+<stop offset="1" stop-color="white" stop-opacity="0"/>
+</linearGradient>
+<linearGradient id="paint1_linear_1_215" x1="387.668" y1="375.891" x2="387.218" y2="409.888" gradientUnits="userSpaceOnUse">
+<stop stop-color="white"/>
+<stop offset="1" stop-color="white" stop-opacity="0"/>
+</linearGradient>
+<linearGradient id="paint2_linear_1_215" x1="381.45" y1="327.586" x2="379.831" y2="361.547" gradientUnits="userSpaceOnUse">
+<stop stop-color="white"/>
+<stop offset="1" stop-color="white" stop-opacity="0"/>
+</linearGradient>
+<linearGradient id="paint3_linear_1_215" x1="393.261" y1="257.733" x2="387.324" y2="298.14" gradientUnits="userSpaceOnUse">
+<stop stop-color="white"/>
+<stop offset="1" stop-color="white" stop-opacity="0"/>
+</linearGradient>
+<linearGradient id="paint4_linear_1_215" x1="402.3" y1="212.34" x2="394.701" y2="252.468" gradientUnits="userSpaceOnUse">
+<stop stop-color="white"/>
+<stop offset="1" stop-color="white" stop-opacity="0"/>
+</linearGradient>
+<linearGradient id="paint5_linear_1_215" x1="410.719" y1="173.216" x2="401.48" y2="212.998" gradientUnits="userSpaceOnUse">
+<stop stop-color="white"/>
+<stop offset="1" stop-color="white" stop-opacity="0"/>
+</linearGradient>
+<linearGradient id="paint6_linear_1_215" x1="423.853" y1="122.675" x2="411.854" y2="161.714" gradientUnits="userSpaceOnUse">
+<stop stop-color="white"/>
+<stop offset="1" stop-color="white" stop-opacity="0"/>
+</linearGradient>
+<linearGradient id="paint7_linear_1_215" x1="385.506" y1="292.879" x2="381.897" y2="333.56" gradientUnits="userSpaceOnUse">
+<stop stop-color="white"/>
+<stop offset="1" stop-color="white" stop-opacity="0"/>
+</linearGradient>
+</defs>
+</svg>
